@@ -4,4 +4,4 @@ import "./database";
 
 const app = express();
 
-app.listen(3000, () => console.log("Este Servidor está Rodando ..."));
+app.listen(3000, () => console.log("Servidor Rodando ..."));
