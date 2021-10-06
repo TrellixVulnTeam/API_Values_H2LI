@@ -1,6 +1,5 @@
 # Nlw Valoriza
 
-
 ## Regras
 
 - Cadastro de usuário
