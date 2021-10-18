@@ -18,9 +18,9 @@
 
 - Cadastro de elogios
     
-    [ ] Não é permitido um usuário cadastrar um elogios pra si
+    [ X ] Não é permitido um usuário cadastrar um elogios pra si
 
-    [ ] Não é permitido cadastrar um elogios para usuários inválidos
+    [ X ] Não é permitido cadastrar um elogios para usuários inválidos
 
     [ ] O usuário deve deve estar autenticado na aplicação
     
