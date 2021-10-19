@@ -1,26 +1,28 @@
-# Nlw Valoriza
+# API_Values
 
-## Regras
+   API intended to add a compliment to other users of the system ...
+   
+## Rules
 
-- Cadastro de usuário
+- User registration
     
-    [ X ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+    It is not allowed to register more than one user with the same email
 
-    [ X ] Não é permitido cadastrar usuário sem e-mail
+    It is not allowed to register user without e-mail
     
-- Cadastro de TAG
+- Tag registration
 
-    [ X ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+    It is not allowed to register more than one tag with the same name
 
-    [ X ] Não é permitido cadastrar tag sem nome
+    It is not allowed to register an unnamed tag
 
-    [ X ] Não é permitido o cadastro por usuários que não sejam administradores
+    Registration by users who are not administrators is not allowed
 
-- Cadastro de elogios
+- Register of Compliments
     
-    [ X ] Não é permitido um usuário cadastrar um elogios pra si
+    Users are not allowed to register a compliment for themselves
 
-    [ X ] Não é permitido cadastrar um elogios para usuários inválidos
+    It is not allowed to register a compliment for invalid users
 
-    [ ] O usuário deve deve estar autenticado na aplicação
+    The user must be authenticated in the application
     
